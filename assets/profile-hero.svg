@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="Yordan Bozhkov — Technology, Product, Design">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#0D1723"/><stop offset="56%" stop-color="#152838"/><stop offset="100%" stop-color="#0C1520"/></linearGradient>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#64C8D9"/><stop offset="100%" stop-color="#DDA16F"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#56BFCB" stop-opacity=".25"/><stop offset="100%" stop-color="#56BFCB" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse"><path d="M38 0H0V38" fill="none" stroke="#C3E7F0" stroke-opacity=".07" stroke-width="1"/></pattern>
+</defs>
+<rect width="1280" height="320" rx="22" fill="url(#bg)"/>
+<rect width="1280" height="320" rx="22" fill="url(#grid)"/>
+<circle cx="1080" cy="130" r="290" fill="url(#glow)"/>
+<circle cx="1057" cy="150" r="108" fill="none" stroke="#73C6D0" stroke-opacity=".28" stroke-width="1.5"/>
+<circle cx="1057" cy="150" r="76" fill="none" stroke="#73C6D0" stroke-opacity=".24" stroke-width="1.5"/>
+<path d="M880 212l77-93 58 52 73-96 72 76" fill="none" stroke="url(#line)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity=".65"/>
+<circle cx="880" cy="212" r="5" fill="#64C8D9"/><circle cx="1088" cy="75" r="5" fill="#DDA16F"/>
+<rect x="70" y="71" width="5" height="170" rx="2.5" fill="url(#line)"/>
+<text x="105" y="105" font-family="Segoe UI,Inter,Arial,sans-serif" fill="#73CBD6" letter-spacing="5" font-size="15" font-weight="700">TECHNOLOGY  /  PRODUCT  /  DESIGN</text>
+<text x="103" y="169" font-family="Segoe UI,Inter,Arial,sans-serif" fill="#F7FAFC" font-size="53" font-weight="700">Yordan Bozhkov</text>
+<text x="105" y="208" font-family="Segoe UI,Inter,Arial,sans-serif" fill="#C5D4DF" font-size="22">Building thoughtful, useful digital products.</text>
+<text x="105" y="263" font-family="Segoe UI,Inter,Arial,sans-serif" fill="#8FB8C6" font-size="15" letter-spacing="1.2">PRODUCT ENGINEERING  ·  AI &amp; AUTOMATION  ·  USER EXPERIENCE</text>
+</svg>
