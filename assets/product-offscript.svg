@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="350" viewBox="0 0 720 350" role="img" aria-label="Offscript — A more meaningful way to explore cities. in development.">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B2630"/><stop offset="100%" stop-color="#183D49"/></linearGradient><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#88B8BD" stroke-opacity=".09"/></pattern></defs>
+<rect width="720" height="350" rx="22" fill="url(#bg)"/><rect width="720" height="350" rx="22" fill="url(#grid)"/>
+<path d="M40 48H372" stroke="#88B8BD" stroke-width="1" stroke-opacity=".45"/><text x="40" y="36" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="650" letter-spacing="2.5" fill="#9BE6C0">01 / PLACE &amp; DISCOVERY</text>
+<text x="39" y="147" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="62" font-weight="720" letter-spacing="-2" fill="#F7F9F7">Offscript</text>
+<text x="42" y="182" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" fill="#D0DEDE">A more meaningful way to explore cities</text>
+<rect x="40" y="271" width="183.20000000000002" height="34" rx="17" fill="#9BE6C0" fill-opacity=".13" stroke="#9BE6C0" stroke-opacity=".52"/>
+<text x="58" y="293" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="1.5" fill="#9BE6C0">IN DEVELOPMENT</text>
+<g fill="none" stroke="#88B8BD" stroke-width="2.2" opacity=".6"><path d="M432 44L485 98L462 159L517 210L493 300"/><path d="M547 31L526 95L586 142L551 217L608 285"/><path d="M414 122L522 133L622 103"/><path d="M407 240L520 209L659 237"/></g><path d="M442 258L478 189L546 196L578 107L634 132" stroke="#9BE6C0" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round"/><g fill="#9BE6C0"><circle cx="442" cy="258" r="8"/><circle cx="546" cy="196" r="8"/><circle cx="578" cy="107" r="8"/><circle cx="634" cy="132" r="8"/></g><circle cx="478" cy="189" r="27" fill="none" stroke="#9BE6C0" stroke-width="2.5" stroke-opacity=".65"/>
+</svg>
