@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="350" viewBox="0 0 720 350" role="img" aria-label="Groundcase — Turn assumptions into clearer decisions. release improvements.">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#222E26"/><stop offset="100%" stop-color="#425A4A"/></linearGradient><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#B3C5AD" stroke-opacity=".09"/></pattern></defs>
+<rect width="720" height="350" rx="22" fill="url(#bg)"/><rect width="720" height="350" rx="22" fill="url(#grid)"/>
+<path d="M40 48H372" stroke="#B3C5AD" stroke-width="1" stroke-opacity=".45"/><text x="40" y="36" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="650" letter-spacing="2.5" fill="#D4D9A2">02 / VENTURE INTELLIGENCE</text>
+<text x="39" y="147" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="62" font-weight="720" letter-spacing="-2" fill="#F7F9F7">Groundcase</text>
+<text x="42" y="182" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" fill="#D0DEDE">Turn assumptions into clearer decisions</text>
+<rect x="40" y="271" width="248" height="34" rx="17" fill="#D4D9A2" fill-opacity=".13" stroke="#D4D9A2" stroke-opacity=".52"/>
+<text x="58" y="293" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="1.5" fill="#D4D9A2">RELEASE IMPROVEMENTS</text>
+<g stroke="#B3C5AD" stroke-width="1.4" opacity=".4"><path d="M429 86H660M429 136H660M429 186H660M429 236H660M429 286H660M454 70V300M512 70V300M570 70V300M628 70V300"/></g><path d="M431 268L485 245L529 247L565 185L604 201L655 110" fill="none" stroke="#D4D9A2" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><path d="M431 268L485 245L529 247L565 185L604 201L655 110L655 288H431Z" fill="#D4D9A2" opacity=".1"/><g fill="#D4D9A2"><circle cx="431" cy="268" r="6"/><circle cx="529" cy="247" r="6"/><circle cx="565" cy="185" r="7"/><circle cx="655" cy="110" r="7"/></g>
+</svg>
