@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="350" viewBox="0 0 720 350" role="img" aria-label="Forthmap — Explore the futures worth considering. interactive prototype.">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#29243B"/><stop offset="100%" stop-color="#4A3C5A"/></linearGradient><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#C5B4DC" stroke-opacity=".09"/></pattern></defs>
+<rect width="720" height="350" rx="22" fill="url(#bg)"/><rect width="720" height="350" rx="22" fill="url(#grid)"/>
+<path d="M40 48H372" stroke="#C5B4DC" stroke-width="1" stroke-opacity=".45"/><text x="40" y="36" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="650" letter-spacing="2.5" fill="#E7B6CE">04 / CAREER EXPLORATION</text>
+<text x="39" y="147" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="62" font-weight="720" letter-spacing="-2" fill="#F7F9F7">Forthmap</text>
+<text x="42" y="182" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" fill="#D0DEDE">Explore the futures worth considering</text>
+<rect x="40" y="271" width="258.8" height="34" rx="17" fill="#E7B6CE" fill-opacity=".13" stroke="#E7B6CE" stroke-opacity=".52"/>
+<text x="58" y="293" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="1.5" fill="#E7B6CE">INTERACTIVE PROTOTYPE</text>
+<path d="M430 294C454 244 467 212 501 197S550 172 556 126" stroke="#C5B4DC" fill="none" stroke-width="3" opacity=".6"/><path d="M430 294C471 267 493 271 528 237S588 195 653 199" stroke="#E7B6CE" fill="none" stroke-width="4" stroke-linecap="round"/><path d="M430 294C486 299 524 319 556 278S597 247 637 252" stroke="#C5B4DC" fill="none" stroke-width="3" opacity=".8"/><g fill="#E7B6CE"><circle cx="430" cy="294" r="11"/><circle cx="556" cy="126" r="9"/><circle cx="653" cy="199" r="9"/><circle cx="637" cy="252" r="9"/></g><g fill="none" stroke="#E7B6CE" stroke-opacity=".45" stroke-width="2"><circle cx="556" cy="126" r="24"/><circle cx="653" cy="199" r="24"/><circle cx="637" cy="252" r="24"/></g>
+</svg>
